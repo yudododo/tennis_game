@@ -19,7 +19,7 @@ JavaScript (ES6)：遊戲邏輯與互動
 
 ## 💥 Demo
 
-![demo](./game.gif)
+![demo](./demo.gif)
 
 ## 📁 Project Structure
 
